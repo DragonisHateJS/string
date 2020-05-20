@@ -1,0 +1,14 @@
+{
+    "name": "ilja/string",
+    "authors": [
+        {
+            "name": "Ilja Romanov",
+            "email": "rilja@bk.ru"
+        }
+    ],
+    "autoload": {
+    	"psr-4":{
+    		"Controller\\":"Classes"
+    	}
+    }
+}
